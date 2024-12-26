@@ -10,7 +10,7 @@ esphome:
   name_add_mac_suffix: true
   comment: '${device_description}'
   project:
-    name: "huizebruin.${name}"
+    name: "Watermeter-esp8266.${name}"
     version: "${project_version}"
   min_version: 2024.6.0
 esp8266:
